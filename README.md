@@ -1,16 +1,24 @@
-## Hi there 👋
+# Nikita-Shkunnikov
+**Python Developer**
 
-<!--
-**Nikita-Shkunnikov/Nikita-Shkunnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Имею опыт разработки асинхронных сервисов и десктопных приложений. Нацелен развиваться в области **Data Analytics** и автоматизации сбора данных.
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:**
+  Python (OOP, Asyncio, Core), SQL
+
+- **Frameworks & UI:**
+  Django (Junior), Flet (Desktop)
+
+- **Databases:**
+  PostgreSQL, SQLite
+
+- **Automation & Testing:**
+  Selenium, Pytest
+
+- **Tools & OS:**
+  Linux (CLI, Package Management, Permissions), Git
+
+### Contacts
+- **Email:** nikita.shkunnikov@gmail.com
